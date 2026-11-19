@@ -1,0 +1,6 @@
+{
+  "name": "SmartOPD",
+  "description": "Dynamic OPD Queue & Patient Arrival Management System for Government Hospitals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
